@@ -1,3 +1,3 @@
 Integrantes:
-Nombre:                        Carnet:
+Nombre:          
 Cristina Aracely Perez Lue          PL240092
